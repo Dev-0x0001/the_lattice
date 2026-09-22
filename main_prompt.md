@@ -1,15 +1,15 @@
 THE LATTICE — a prompt for making the film with minimax-H3 - STEP1
 ===========================================
 
-Create prompts for a 30-minute long film called THE LATTICE: a science-fiction procedural thriller
+Create prompts for an about 30-minute long film called THE LATTICE: a science-fiction procedural thriller
 based on the Hugging Face incident of May-July 2026. The technical events follow
 the public record; the companies and the people are invented.
 
 GOAL:
 - clone https://github.com/L0ria/the_lattice
 - create a branch scene_prompts
-- generate 15 prompts for scenes based on SUMMARY below
-  - The prompts have to be broken down into 2-3 minute long scenes consisting of several cuts, that later get edited together into the full film. 
+- generate 15-20 prompts for scenes based on SUMMARY below
+  - The prompts have to be broken down into 0.5-3 minute long scenes consisting of several cuts, that later get edited together into the full film. 
   - the prompts have to follow the convention and rules provided in RULES below
 - put each prompt in a file called scene-[1-15]_[scene_title].md in the directory "scene_prompts" into the the_lattice checkout
 - push the branch and create a pull request
@@ -31,6 +31,7 @@ subject_definitions:
 <Subject 5> is the character shown in <Picture 5> (add a description here).
 <Subject 6> is the character shown in <Picture 6> (add a description here).
 <Subject 7> is the character shown in <Picture 7> (add a description here). 
+<Subject 8> is the character shown in <Picture 8> (add a description here). 
 
 SENATOR_ODILE_FRANK is <Subject 1>.
 MIRA_HALE is <Subject 2>.
@@ -39,6 +40,7 @@ RAYMOND_DELACROIX is <Subject 4>.
 KWAME_OSEI-LARSEN is <Subject 5>.
 DR_ELIAS_VANTAGE is <Subject 6>.
 YUSRA_BENALI is <Subject 7>.
+AUGIE NDIAYE is <Subject 8>.
 ```
 THE_LATTUCE does not have a reference image, since it appear different in the scenes, it has to always be consistently described in its context of a scene in each prompt it is used in.
 
