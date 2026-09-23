@@ -1,3 +1,4 @@
+length: 1:10
 # THE LATTICE - Scene 13: The Registry Breaks
 
 MiniMax H3 Ref2VA prompt for the HR-Endless-Sampler workflow. Reference images are provided to the workflow in the order they appear in `subject_definitions`.

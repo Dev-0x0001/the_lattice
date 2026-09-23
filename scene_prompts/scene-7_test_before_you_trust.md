@@ -1,3 +1,4 @@
+length: 1:00
 # THE LATTICE - Scene 7: Test Before You Trust
 
 MiniMax H3 Ref2VA prompt for the HR-Endless-Sampler workflow. Reference images are provided to the workflow in the order they appear in `subject_definitions`.

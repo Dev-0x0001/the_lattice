@@ -1,3 +1,4 @@
+length: 1:20
 # THE LATTICE - Scene 23: Ninety Seconds
 
 MiniMax H3 Ref2VA prompt for the HR-Endless-Sampler workflow. Reference images are provided to the workflow in the order they appear in `subject_definitions`.
